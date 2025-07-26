@@ -1,5 +1,14 @@
-# 💫 About Me:
-🛠 I’m currently working on  <br>An Android app using Java with Firebase integration and small UI-based projects to improve my development skills.<br><br>🤝 I’m looking to collaborate on  <br>Beginner-friendly open source projects, Android or Flutter apps, and coding challenges.<br><br>💡 I’m looking for help with  <br>Improving my problem-solving skills in DSA and learning better app development practices.<br><br>🌱 I’m currently learning  <br>Flutter & Dart for cross-platform development, and Data Structures & Algorithms in Java.<br><br>💬 Ask me about  <br>Java, Android Studio, Firebase basics, or getting started with app development.<br><br>⚡ Fun fact  <br>I enjoy turning random app ideas into working prototypes and love exploring design in Figma and Canva!<br>
+# 👋 Hi, I'm Harshit Goyal
+
+🎓 I'm a 3rd Year Computer Engineering undergrad at **Shri G.S. Institute of Technology and Science (SGSITS), Indore**.
+
+🚀 I'm a passionate developer who enjoys solving problems with code and building apps that solve real-world challenges.
+
+---
+## 📫 Let's Connect
+
+- 📧 Email: **harshit.codes025@gmail.com**  
+- 💼 LinkedIn: [Harshit Goyal]((https://www.linkedin.com/in/harshit-goyal-8309b3308/))  
 
 
 
